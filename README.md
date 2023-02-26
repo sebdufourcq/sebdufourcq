@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tryhackme stats](https://raw.githubusercontent.com/sebdufourcq/sebdufourcq/main/assets/thm_propic.png)
+![tryhackme badge](https://tryhackme-badges.s3.amazonaws.com/3LPR0F350R.png)
