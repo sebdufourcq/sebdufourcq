@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastien</h1>
 
-<h3 align="center">A passionate Cybersecurity Technical Account Manager</h3>
+<h3 align="center">A passionate SOC Technical Account Manager</h3>
 <h3 align="center">🛡️ 🇨🇵 🛡️</h3>
 
 ## Description
